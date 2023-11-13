@@ -6,6 +6,7 @@ const servidor = express()
 const swaggerUi = require('swagger-ui-express');
 const swaggerSpec = require('./swagger');
 
+const cors = require("cors")
 // Config das bibliotecas
 dotenv.config()
 
@@ -21,7 +22,7 @@ const rota_post = require("./routes/post")
 
 
 // Middleware
-
+servidor.use(cors())
 
 //Consumo das rotas
 
