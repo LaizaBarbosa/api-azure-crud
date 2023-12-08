@@ -21,8 +21,8 @@ A API conta com sistema de registro de usuários e administradores, que por sua 
 
 
 ### HOSPEDAGEM 🏨
-A API foi hospedada na plataforma Cyclic.sh e pode ser acessada por esse [link](https://crud-ecommerce.cyclic.app/)
+A API foi hospedada na plataforma Cyclic.sh e pode ser acessada por esse [link](https://aquamarine-oyster-shoe.cyclic.app)
 
 
 ### DOCUMENTAÇÃO 🧾
-As rotas e métodos podem ser testados por esse [link](https://crud-ecommerce.cyclic.app/api-docs)
+As rotas e métodos podem ser testados por esse [link](https://aquamarine-oyster-shoe.cyclic.app/api-docs)
